@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Person X pulled the latest code and added his changes also.");
 
         Architecture.printX();
+
+        Architecture.printY();
     }
 }
